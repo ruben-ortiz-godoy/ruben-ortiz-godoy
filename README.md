@@ -4,10 +4,10 @@ Estudiante de Ingeniería en la Universidad Autónoma de Tamaulipas (UAT), en Nu
 
 ## 🛠️ Tecnologías
 
-**Lenguajes:** Dart · SQL · HTML · Python (aprendiendo)
-**Frameworks:** Flutter · Angular
-**Bases de datos:** MySQL
-**Herramientas:** Git · Cisco Packet Tracer · VirtualBox
+- **Lenguajes:** Dart · SQL · HTML · Python (aprendiendo)
+- **Frameworks:** Flutter · Angular
+- **Bases de datos:** MySQL
+- **Herramientas:** Git · Cisco Packet Tracer · VirtualBox
 
 ## 🚀 Proyectos
 
