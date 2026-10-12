@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Ruben 👋
 
-<!--
-**ruben-ortiz-godoy/ruben-ortiz-godoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en la Universidad Autónoma de Tamaulipas (UAT), en Nuevo Laredo, México. Construyo aplicaciones móviles y web, y estoy buscando prácticas profesionales en desarrollo de software.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Lenguajes:** Dart · SQL · HTML · Python (aprendiendo)
+**Frameworks:** Flutter · Angular
+**Bases de datos:** MySQL
+**Herramientas:** Git · Cisco Packet Tracer · VirtualBox
+
+## 🚀 Proyectos
+
+- **Sistema de listado de alumnos**: aplicación con inicio de sesión y gestión de alumnos. *(próximamente)*
+- **Aprendizaje de MySQL**: apuntes, consultas y ejemplos organizados por tema. *(próximamente)*
+
+## 🎯 Estoy aprendiendo
+
+Git y GitHub, Python y cómo integrar IA en aplicaciones.
+
+## 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/ruben-ortiz-godoy)
